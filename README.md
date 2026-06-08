@@ -8,3 +8,7 @@ Python
 Scapy Library
 TCP/IP Networking Protocols
 Packet Sniffing and Network Analysis Techniques
+
+## OUTPUT ##
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/d8724a51-7cf0-4d2d-bfbd-e47362059229" />
